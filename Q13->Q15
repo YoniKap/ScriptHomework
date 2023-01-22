@@ -1,0 +1,3 @@
+./12execute > Coutput
+./12execute > Coutput
+./12execute | grep "give" >> Coutput
